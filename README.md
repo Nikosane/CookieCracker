@@ -18,7 +18,7 @@ This project demonstrates various web security vulnerabilities related to cookie
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Exploiting-Cookies-and-Sessions.git
+git clone https://github.com/Nikosane/CookieCraker.git
 ```
 2. Install the dependencies:
 ```
